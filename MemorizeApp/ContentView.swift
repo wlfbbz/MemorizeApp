@@ -8,7 +8,7 @@
 import SwiftUI
 
 struct ContentView: View {
-    var body: Text {
+    var body: some View {
         VStack{
             Text("hello")
             Text("there")
